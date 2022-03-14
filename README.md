@@ -1,5 +1,5 @@
   # Tech Talk
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents:
 
@@ -75,17 +75,17 @@
   ## Tests
 
   ---
-  To test this application run this command in the console:  
-  ```npm run seeds, npm start```
+  To test this application run these command in the console:  
+  ```npm run tests, npm run seeds, npm start```
   
   Link to deployed application on Heroku:
 
-  https://obscure-basin-64488.herokuapp.com/
+  https://fathomless-thicket-11670.herokuapp.com/
 
   ## Questions
 
   ---
   For any questions feel free to reach out through the following contacts:  
 
-  Email: jacob.tobin.liberty@gmail.com
-  Github: https://github.com/JacobGit3 
+  Email: regnuoy321@gmail.com
+  Github: https://github.com/RochelleYounger 
